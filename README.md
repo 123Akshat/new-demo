@@ -1,6 +1,7 @@
+# Netflix-Clone
+
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/103346687/232337814-0d2b0589-d441-43b8-a9b0-a298cb3900ed.png)
 
-# Netflix-Clone
 
 A simple Netflix Clone made using Next.js ⚡
 
